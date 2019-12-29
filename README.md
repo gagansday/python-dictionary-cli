@@ -9,5 +9,4 @@
 **Gagandeep Singh** - Twitter: [@gagansday](https://twitter.com/gagansday)
 
 ## License
-
-The Python Dictionary CLI and example output files in this repository are free and distributed under the GNU General Public License, Version 2.
+The Python Dictionary CLI is open-sourced software licensed under the MIT license.
