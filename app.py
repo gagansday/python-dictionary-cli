@@ -4,7 +4,7 @@ from difflib import get_close_matches
 
 def translate(word):
     word = word.lower()
-    data = json.load(open("dictionary_compact.json"))
+    data = json.load(open("dictionary.json"))
 
     def getDefinition(word):
         return data[word]
