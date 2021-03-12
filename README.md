@@ -2,7 +2,7 @@
 
 ## Usage (Command Line Utility)
 
-- python app.py
+``> python app.py``
 
 ## Author
 
